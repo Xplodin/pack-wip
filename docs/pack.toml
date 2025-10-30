@@ -1,0 +1,13 @@
+name = "DCMinecraftBeta"
+author = "Bean"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bbcc9d64dd96c50f71985f94d7647c86bf482b26758524fdf9e0fccc673f513d"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
